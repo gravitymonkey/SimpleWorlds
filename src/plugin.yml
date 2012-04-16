@@ -1,0 +1,10 @@
+name: SimpleWorlds
+main: com.gravitymonkey.minecraft.bukkit.simpleworlds.SimpleWorlds
+version: 0.1
+commands:
+  goto:
+    description: Create a new world
+    usage: /<command> [creative or default]
+    permission: SimpleWorlds.goto
+    permission-message: You are not authorized to use <permission>
+    default: op
