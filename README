@@ -1,0 +1,3 @@
+This is a simple Minecraft/Bukkit plugin to allow our server to host two worlds -- our primary survival server, and also a creative server.  
+
+This plugin facilitates easy switching between the two, and tries to manage (i.e. stop) the passage of inventory items from one world to the other.
